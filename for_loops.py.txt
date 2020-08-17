@@ -1,2 +1,2 @@
-for i = range(10).
+for i to range(10).
 print('Yahoo')
